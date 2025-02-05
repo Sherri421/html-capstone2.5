@@ -1,0 +1,59 @@
+
+
+.background {
+  background-image: url(./sky\ blue.webp);
+  background-size: 180% 180%;
+  
+}
+
+
+p {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+
+#pets {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
+
+#corgi {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+}
+
+#computer {
+display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+} 
+
+img {
+  padding: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 25%;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+span{
+  font-weight: bold;
+  font-style: oblique;
+}
